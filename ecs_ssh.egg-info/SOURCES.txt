@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+ecs_ssh.egg-info/PKG-INFO
+ecs_ssh.egg-info/SOURCES.txt
+ecs_ssh.egg-info/dependency_links.txt
+ecs_ssh.egg-info/entry_points.txt
+ecs_ssh.egg-info/requires.txt
+ecs_ssh.egg-info/top_level.txt

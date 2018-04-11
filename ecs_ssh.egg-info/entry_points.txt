@@ -1,0 +1,3 @@
+[console_scripts]
+ecs-ssh = sample:main
+
