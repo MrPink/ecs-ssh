@@ -45,7 +45,7 @@ setup(
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#summary
-    description='ECS container ssh tool',  # Required
+    description='ECS ssh tool',  # Required
 
     # This is an optional longer description of your project that represents
     # the body of text which users will see when they visit PyPI.
@@ -55,7 +55,7 @@ setup(
     #
     # This field corresponds to the "Description" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#description-
-    long_description='quickly and easily ssh to containers within ECS',
+    long_description='quickly and easily ssh to ECS cluster instances',
 
     # This should be a valid link to your project's main homepage.
     #
